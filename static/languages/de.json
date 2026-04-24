@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viel Atomkraft besitzt die EU?",
+  "subtitle": "Im Jahr 2024 wird die Leistung bei 97,23 GW liegen, ein Rückgang von rund 30 % im Vergleich zu vor zwanzig Jahren. Während die Erzeugungskapazität in Belgien und Frankreich deutlich reduziert wurde und in Deutschland und Litauen vollständig zum Erliegen kam, hat sie in Rumänien sowie in Finnland, Ungarn und Tschechien deutlich zugenommen.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Die grau dargestellten EU-Länder verfügen über keine Kernkraftkapazitäten zur Stromerzeugung.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
+  "customUnitLabel": "kW pro Einwohner",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
