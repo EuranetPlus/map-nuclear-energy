@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How much nuclear power does the EU have?",
+  "subtitle": "In 2024, it stands at 97.23 GW, a decrease of around 30% compared to twenty years ago. Whilst generation capacity has been significantly reduced in Belgium and France and has ceased entirely in Germany and Lithuania, it has increased significantly in Romania, as well as in Finland, Hungary and the Czech Republic.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "The EU countries shown in gray have no nuclear capacity for electricity generation.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "kW per resident",
   "tooltipExtraInfoLabel": "Click here"
 }
