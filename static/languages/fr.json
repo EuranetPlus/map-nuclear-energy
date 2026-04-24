@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle est la capacité nucléaire de l'UE ?",
+  "subtitle": "En 2024, la capacité de production d'électricité s'élève à 97,23 GW, soit une baisse d'environ 30 % par rapport à il y a vingt ans. Si la production a considérablement diminué en Belgique et en France et a totalement cessé en Allemagne et en Lituanie, elle a en revanche fortement augmenté en Roumanie, ainsi qu'en Finlande, en Hongrie et en République tchèque.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les pays de l'UE représentés en gris ne disposent d'aucune capacité nucléaire de production d'électricité.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "kW par résident",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
