@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad cumhachta núicléiche atá ag an AE?",
+  "subtitle": "Sa bhliain 2024, seasann sé ag 97.23 GW, laghdú de thart ar 30% i gcomparáid le fiche bliain ó shin. Cé gur laghdaíodh go suntasach an cumas giniúna sa Bheilg agus sa Fhrainc agus gur stop sé go hiomlán sa Ghearmáin agus sa Liotuáin, tá méadú suntasach tagtha air sa Rómáin, chomh maith leis an bhFionlainn, an Ungáir agus Poblacht na Seice.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Níl aon acmhainn núicléach ag tíortha an AE a thaispeántar i liath chun leictreachas a ghiniúint.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "kW in aghaidh an chónaitheora",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
