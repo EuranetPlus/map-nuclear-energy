@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju tuumaenergiat on EL-il?",
+  "subtitle": "2024. aastal on see 97,23 GW, mis on umbes 30% vähem kui kahekümne aasta tagune periood. Samal ajal kui Belgias ja Prantsusmaal on tootmisvõimsus märkimisväärselt vähenenud ning Saksamaal ja Leedus täielikult lakanud, on see Rumeenias, samuti Soomes, Ungaris ja Tšehhi Vabariigis märkimisväärselt suurenenud.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Halli värviga näidatud EL-i riikidel puudub elektri tootmiseks vajalik tuumaenergia võimsus.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "kW elaniku kohta",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
