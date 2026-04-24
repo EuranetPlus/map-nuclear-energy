@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm għandha enerġija nukleari l-UE?",
+  "subtitle": "Fl-2024, din hija ta’ 97.23 GW, tnaqqis ta’ madwar 30% meta mqabbel ma’ għoxrin sena ilu. Filwaqt li l-kapaċità tal-ġenerazzjoni tnaqqset b’mod sinifikanti fil-Belġju u fi Franza u waqfet għalkollox fil-Ġermanja u l-Litwanja, żdiedet b’mod sinifikanti fir-Rumanija, kif ukoll fil-Finlandja, l-Ungerija u r-Repubblika Ċeka.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-pajjiżi tal-UE murija bil-griż m’għandhom l-ebda kapaċità nukleari għall-ġenerazzjoni tal-elettriku.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "kW għal kull resident",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
