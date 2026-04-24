@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Câtă energie nucleară are UE?",
+  "subtitle": "În 2024, aceasta se situează la 97,23 GW, o scădere de aproximativ 30% față de acum douăzeci de ani. În timp ce capacitatea de generare a fost redusă semnificativ în Belgia și Franța și a încetat complet în Germania și Lituania, aceasta a crescut semnificativ în România, precum și în Finlanda, Ungaria și Republica Cehă.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Țările UE afișate cu gri nu au capacitate nucleară pentru producerea de energie electrică.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "kW pe locuitor",
   "tooltipExtraInfoLabel": "Click aici"
 }
