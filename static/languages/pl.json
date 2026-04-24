@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile energii jądrowej ma UE?",
+  "subtitle": "W 2024 roku wyniesie ona 97,23 GW, co oznacza spadek o około 30% w porównaniu z sytuacją sprzed dwudziestu lat. Podczas gdy moce wytwórcze zostały znacznie ograniczone w Belgii i Francji, a w Niemczech i na Litwie całkowicie ustały, to w Rumunii, a także w Finlandii, na Węgrzech i w Czechach znacząco wzrosły.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Państwa UE oznaczone na szaro nie posiadają żadnych mocy wytwórczych energii jądrowej.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "kW na mieszkańca",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
