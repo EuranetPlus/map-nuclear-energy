@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon ydinvoimaa EU:lla on?",
+  "subtitle": "Vuonna 2024 se on 97,23 GW, mikä on noin 30 % vähemmän kuin kaksikymmentä vuotta sitten. Vaikka tuotantokapasiteettia on vähennetty merkittävästi Belgiassa ja Ranskassa ja se on loppunut kokonaan Saksassa ja Liettuassa, se on kasvanut merkittävästi Romaniassa sekä Suomessa, Unkarissa ja Tšekissä.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Harmaalla merkityillä EU-mailla ei ole ydinvoimakapasiteettia sähkön tuotantoon.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "kW asukasta kohden",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
