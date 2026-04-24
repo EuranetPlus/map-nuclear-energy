@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz kodolenerģijas ir ES?",
+  "subtitle": "2024. gadā tā bija 97,23 GW, kas ir par aptuveni 30 % mazāk nekā pirms divdesmit gadiem. Lai gan Beļģijā un Francijā ražošanas jauda ir ievērojami samazinājusies, bet Vācijā un Lietuvā tā ir pilnībā pārtraukta, Rumānijā, kā arī Somijā, Ungārijā un Čehijas Republikā tā ir ievērojami palielinājusies.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Pelēkā krāsā norādītajām ES valstīm nav kodolenerģijas ražošanas jaudas.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "kW uz iedzīvotāju",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
