@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko nuklearne energije ima EU?",
+  "subtitle": "U 2024. godini iznosi 97,23 GW, što je smanjenje od oko 30% u usporedbi s prije dvadeset godina. Dok su proizvodni kapaciteti značajno smanjeni u Belgiji i Francuskoj, a potpuno prestali s proizvodnjom u Njemačkoj i Litvi, značajno su se povećali u Rumunjskoj, kao i u Finskoj, Mađarskoj i Češkoj.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Zemlje EU prikazane sivom bojom nemaju nuklearne kapacitete za proizvodnju električne energije.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "kW po stanovniku",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
