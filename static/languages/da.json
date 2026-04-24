@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor meget atomkraft har EU?",
+  "subtitle": "I 2024 ligger den på 97,23 GW, et fald på omkring 30 % i forhold til for tyve år siden. Mens produktionskapaciteten er blevet reduceret betydeligt i Belgien og Frankrig og helt ophørt i Tyskland og Litauen, er den steget betydeligt i Rumænien samt i Finland, Ungarn og Tjekkiet.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "EU-landene vist med gråt har ingen nuklear kapacitet til elproduktion.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "kW pr. beboer",
   "tooltipExtraInfoLabel": "Klik her"
 }
