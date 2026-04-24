@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel kernenergie heeft de EU?",
+  "subtitle": "In 2024 bedraagt de capaciteit 97,23 GW, een daling van ongeveer 30% ten opzichte van twintig jaar geleden. Terwijl de productiecapaciteit in België en Frankrijk aanzienlijk is verminderd en in Duitsland en Litouwen volledig is stilgelegd, is deze in Roemenië, Finland, Hongarije en Tsjechië juist sterk toegenomen.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De EU-landen die grijs zijn weergegeven, beschikken niet over kernenergiecapaciteit voor de opwekking van elektriciteit.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "kW per inwoner",
   "tooltipExtraInfoLabel": "Klik hier"
 }
