@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko jadrovej energie má EÚ?",
+  "subtitle": "V roku 2024 dosiahol 97,23 GW, čo predstavuje pokles približne o 30 % v porovnaní s obdobím pred dvadsiatimi rokmi. Zatiaľ čo výrobná kapacita sa v Belgicku a Francúzsku výrazne znížila a v Nemecku a Litve úplne zastavila, v Rumunsku, ako aj vo Fínsku, Maďarsku a Českej republike sa výrazne zvýšila.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Krajiny EÚ zobrazené sivou farbou nemajú jadrovú kapacitu na výrobu elektriny.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "kW na obyvateľa",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
