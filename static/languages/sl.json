@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko jedrske energije ima EU?",
+  "subtitle": "Leta 2024 znaša 97,23 GW, kar je približno 30 % manj kot pred dvajsetimi leti. Medtem ko se je proizvodna zmogljivost v Belgiji in Franciji znatno zmanjšala, v Nemčiji in Litvi pa je bila v celoti ustavljena, se je v Romuniji, pa tudi na Finskem, Madžarskem in Češkem, znatno povečala.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Države EU, prikazane s sivo barvo, nimajo jedrskih zmogljivosti za proizvodnjo električne energije.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "kW na prebivalca",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
